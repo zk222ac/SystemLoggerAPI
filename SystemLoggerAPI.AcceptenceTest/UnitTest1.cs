@@ -9,6 +9,7 @@ namespace SystemLoggerAPI.AcceptenceTest
         public void Test1()
         {
 
+
         }
     }
 }
